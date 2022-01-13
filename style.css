@@ -1,0 +1,23 @@
+.purchase-bg-color {
+    background-color: #264653;
+}
+
+.btn-color,
+fas-fa-star-color {
+    background-color: #E76F51;
+}
+
+.font-text-warning {
+    color: #E76F51;
+}
+
+.fas-fa-star-color {
+    color: #E76F51;
+}
+
+.about-border {
+    width: 58.5px;
+    height: 0px;
+    border-bottom: 1px solid #E76F51;
+    border-radius: 1px;
+}
